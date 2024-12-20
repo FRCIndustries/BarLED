@@ -1,6 +1,6 @@
 # BarLED
 
-A versatile Arduino library for driving LED bar displays and arrays using common shift registers and LED driver chips. Features automatic cascading, built-in animations, and brightness control.
+A versatile Arduino library for driving 10 segment LED bar displays and arrays using common shift registers and LED driver chips. Features automatic cascading, built-in animations, and brightness control.
 
 ## Overview
 
