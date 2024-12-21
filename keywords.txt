@@ -1,0 +1,51 @@
+#######################################
+# Syntax Coloring Map For BarLED
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+BarLED	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setBars	KEYWORD2
+clearAll	KEYWORD2
+setAll	KEYWORD2
+update	KEYWORD2
+setPatternSpeed	KEYWORD2
+stopPattern	KEYWORD2
+pausePattern	KEYWORD2
+resumePattern	KEYWORD2
+setPatternRepeat	KEYWORD2
+isPatternComplete	KEYWORD2
+getCurrentPattern	KEYWORD2
+setBrightness	KEYWORD2
+getLastError	KEYWORD2
+setDebugMode	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+TYPE_74HC595	LITERAL1
+TYPE_MBI5027	LITERAL1
+TYPE_WS2803	LITERAL1
+
+PATTERN_NONE	LITERAL1
+PATTERN_INCREMENT	LITERAL1
+PATTERN_DECREMENT	LITERAL1
+PATTERN_CHASE	LITERAL1
+PATTERN_GROW	LITERAL1
+PATTERN_SHRINK	LITERAL1
+PATTERN_HEARTBEAT	LITERAL1
+PATTERN_BOUNCE	LITERAL1
+PATTERN_RANDOM	LITERAL1
+PATTERN_WAVE	LITERAL1
+PATTERN_ALTERNATING	LITERAL1
+
+ERROR_NONE	LITERAL1
+ERROR_INVALID_CHIP	LITERAL1
+ERROR_INVALID_PINS	LITERAL1
+ERROR_INVALID_PATTERN	LITERAL1
